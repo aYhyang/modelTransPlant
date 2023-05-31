@@ -15,6 +15,9 @@ mtcnn人脸检测模型演示
 
 ### 使用说明
 
+由于程序包含有较大文件，故可执行程序分享在百度网盘中供下载试用。
+
+- 百度网盘下载地址：https://pan.baidu.com/s/17JxN3svamv8aHEtzvZraDA   提取码：gxzh
 - 下载release文件
 - 打开文件找到 modelTransplant.exe 文件
 - 点击运行exe便可体验该应用相关功能
